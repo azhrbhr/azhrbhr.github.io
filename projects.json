@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Show Booking App",
+        "description": "Dynamic ticket bookings for events and shows.",
+        "youtubeLink": "https://www.youtube.com/watch?v=your-show-booking-app-video",
+        "githubLink": "https://github.com/your-username/show-booking-app"
+    },
+    {
+        "name": "Ecommerce App",
+        "description": "Sophisticated online shopping platform.",
+        "youtubeLink": "https://www.youtube.com/watch?v=your-ecommerce-app-video",
+        "githubLink": "https://github.com/your-username/ecommerce-app"
+    },
+    {
+        "name": "Personal Blog App",
+        "description": "Engaging user blog with rich text formatting.",
+        "youtubeLink": "https://www.youtube.com/watch?v=your-personal-blog-app-video",
+        "githubLink": "https://github.com/your-username/personal-blog-app"
+    },
+    {
+        "name": "LMS App",
+        "description": "Efficient Learning Management System for educational institutions.",
+        "youtubeLink": "https://www.youtube.com/watch?v=your-lms-app-video",
+        "githubLink": "https://github.com/your-username/lms-app"
+    },
+    {
+        "name": "Movie Review Sentiment Analysis",
+        "description": "Analyze movie reviews to determine sentiment using machine learning.",
+        "youtubeLink": "https://www.youtube.com/watch?v=your-movie-review-sentiment-video",
+        "githubLink": "https://github.com/your-username/movie-review-sentiment-analysis"
+    },
+    {
+        "name": "College Management System",
+        "description": "Simplify college administration with a comprehensive management system.",
+        "youtubeLink": "https://www.youtube.com/watch?v=your-college-management-video",
+        "githubLink": "https://github.com/your-username/college-management-system"
+    }
+]
